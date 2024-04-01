@@ -14,3 +14,5 @@ Learning Objectives [# BTEC560 4 Credits Fundamentals of Bioinformatics](https:/
 [Descriptive Statistics:](https://youtu.be/09SCdQPVShU)
 
 [Github:](https://github.com/spawar2/STAT302)
+
+BTEC560 (4 credit) Fall 2022 (25 students)
