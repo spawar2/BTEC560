@@ -15,4 +15,6 @@ Probability & Statistics I & II, Biostatistics, Data Analysis (topics includi
 
 [Github:](https://github.com/spawar2/STAT302)
 
+Chi Square: https://youtu.be/dgehxC9tJVc
+
 BTEC560 (4 credit) Fall 2022 (25 students)
