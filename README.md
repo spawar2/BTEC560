@@ -17,4 +17,4 @@ Probability & Statistics I & II, Biostatistics, Data Analysis (topics includi
 
 Chi Square: https://youtu.be/dgehxC9tJVc
 
-BTEC560 (4 credit) Fall 2022 (25 students)
+BTEC560 (4 credit) Fall 2022 (25 students) **Undergraduate Class & Lab
