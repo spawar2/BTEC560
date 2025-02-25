@@ -21,7 +21,7 @@ Probability & Statistics I & II, Biostatistics, Data Analysis (topics includi
 BTEC560 (4 credit) Fall 2022 (25 students) **Undergraduate Class & Lab. https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
 https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 [Claflin University, Orangeburg, South Carolina, USA.](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6)
-
+^^Claflin University, School of Natural Sciences and Mathematics, Department of Computer Science and Biology, Orangeburg, South Carolina, United States of America (USA). 
 Feb-1.Rd, Feb 8.Rd: Descriptive statistics (Mean, Mode, Median, Standard Deviation, Variance) variable R functions.
 Feb22.Rd: Correlation test analysis and scatter plotting,  boxplot visualizations. selected function(mlv, library, lm, abline, pie, readRDS, rbind, grep, heatmap, is.data.frame, is.numeric, is.matrix, is.na, ggscatter, cor.test, mean, mode, Median, table, read.csv, chisq.test, dbinom, pbinom, ppois, runif, qchisq, qt, qf, pexp, runif, aov, summary, TukeyHSD, rnorm, seq, plot, lines, t.test, dbinom, levels, ggplot). Correlation-Plot.pdf, Feb 7.pdf, Feb 9.pdf, 
 Heatmap: Feb 14 Plot.pdf, Feb 7.Rd, Heatmap-2.pdf, Heatmap-3.pdf
