@@ -1,4 +1,4 @@
-Learning Objectives [# BTEC560 4 Credits, Introduction to Probability and Statistics/Fundamentals of Bioinformatics](https://pawar1550.wixsite.com/claflin-courses/copy-of-stat342). Date created/updated: December, 9, 2024.
+Learning Objectives [# BTEC 560 4 Credits, Introduction to Probability and Statistics/Fundamentals of Bioinformatics](https://pawar1550.wixsite.com/claflin-courses/copy-of-stat342). Date created/updated: December, 9, 2024.
 Probability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, probability distributions, variable types, distribution properties, discrete & continuous types, R functions, ANOVA, T-test, correlation, chi-Square, regression, etc.). Regression (linear, multiple, logistic), Probability distributions (Discrete, Binomial, Poisson, Continuous Uniform, Chi-squared, Student-t, Fisher,)  Exponential, Normal, Chi-Square), Analysis of Variance (ANOVA), data wrangling, Post Hoc Test. United States of America (USA).
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV) Data wrangling and handling.
 [R: ggpubr, tidyverse, datarium, dplyr].
@@ -18,7 +18,7 @@ Probability & Statistics I & II, Biostatistics, Data Analysis (topics includi
 
 [Chi Square:](https://youtu.be/dgehxC9tJVc)
 [Semester class review:](https://youtu.be/Pju8ecWWRAw)
-BTEC560 (4 credit) Fall 2022 (25 students) **Undergraduate Class & Lab. https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
+BTEC 560 (4 credit) Fall 2022 (25 students) **Undergraduate Class & Lab. https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
 https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 [Claflin University, Orangeburg, South Carolina, USA.](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6)
 ^^Claflin University, School of Natural Sciences and Mathematics, Department of Computer Science and Biology, Orangeburg, South Carolina, United States of America (USA). 
