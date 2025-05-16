@@ -15,7 +15,9 @@ Probability & Statistics I & II, Biostatistics, Data Analysis (topics includi
 [Descriptive Statistics:](https://youtu.be/09SCdQPVShU)
 
 [Github:](https://github.com/spawar2/STAT302)
+https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
 
+https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024-26.pdf?sfvrsn=88de090e_0
 [Chi Square:](https://youtu.be/dgehxC9tJVc)
 [Semester class review:](https://youtu.be/Pju8ecWWRAw)
 BTEC 560 (4 credit) Fall 2022 (25 students) **Undergraduate Class & Lab. https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
