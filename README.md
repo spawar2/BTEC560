@@ -1,44 +1,34 @@
-Learning Objectives [# BTEC 560 4 Credits, Introduction to Probability and Statistics/Fundamentals of Bioinformatics](https://pawar1550.wixsite.com/claflin-courses/copy-of-stat342). Date created/updated: December, 9, 2024.
-Probability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, probability distributions, variable types (qualitative, quantitative), distribution properties, discrete & continuous types, R functions, ANOVA, T-test, correlation, chi-Square, regression, etc.). Regression (linear, multiple, logistic), Probability distributions (Discrete, Binomial, Poisson, Continuous Uniform, Chi-squared, Student-t, Fisher,)  Exponential, Normal, Chi-Square), hypothesis testung using critical value (Probability, F Statistics, Coefficient) using Analysis of Variance (ANOVA), data wrangling, Post Hoc Test. United States of America (USA). Data Visualization (BoxPlots, Scatter Plots).
-[Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV) Data wrangling and handling.
+# Data-Science-Spring2025
+CSCI 455 Learning Objectives [# Data-Science-Spring2025 4 Credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-data-science-4-credit-sprin-1)
+Data Science (Data wrangling, visualization, Machine Learning QDA, LDA, ROC, Decision Trees, Regularization, Text Analysis Feature Engineering, Classification and Model Evaluation, Regression: Basics and Prediction, Evaluation and Interpretation, Clustering, etc.). Probability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, probability distributions, variable types (qualitative, quantitative), distribution properties, discrete & continuous types, R functions, Hypothesis testing using critical value (Probability, F Statistics, Coefficient) using ANOVA, data wrangling, Post Hoc Test, T-test, correlation, chi-Square, regression, etc.). Regression (linear, multiple, logistic), Probability distributions (Discrete, Binomial, Poisson, Continuous Uniform, Chi-squared, Student-t, Fisher,)  Exponential, Normal, Chi-Square  test), Hypothesis testing using  critical value (Probability, F Statistics, Coefficient) using Analysis of Variance (ANOVA). Data wrangling and handling. Custom functions in R. Data Visualization (BoxPlots, Scatter Plots).
+[Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
+Date created/updated: December, 9, 2024.
+Data Science:
 [R: ggpubr, tidyverse, datarium, dplyr].
-[Data analysis:](https://youtu.be/WIvehDeVRak)
-[Data analysis:](https://youtu.be/dhIjTt26YKQ)
-![download](https://github.com/user-attachments/assets/72fa4674-a3b7-472f-a029-07b3d6e02886)
+[Machine Learning:](https://youtu.be/Pju8ecWWRAw)
+![download](https://github.com/user-attachments/assets/8da63d9a-6382-41bb-b57f-e6dcbe82ec05)
 
-[T Test:](https://youtu.be/sIpMsN90Dt8)
+[Tree Based Models:](https://youtu.be/FOtl6qM_nX0)
+https://github.com/spawar2/BTEC-620-Spring-2023/blob/main/Phylogenetic-Analysis.R
 
-[Anova:](https://youtu.be/Z-S4CfsRHA0)
+[Regression:](https://youtu.be/LrSDfwwnbKY)
+https://github.com/spawar2/STAT302/blob/main/Mar-9.Rd
+[Semester class review:](https://youtu.be/Pju8ecWWRAw)
+[Github:](https://github.com/spawar2/Data-Science-Fall2022)
 
-[Correlation:](https://youtu.be/yndToTyudUQ)
-
-[Descriptive Statistics:](https://youtu.be/09SCdQPVShU)
-
-[Github:](https://github.com/spawar2/STAT302)
+Data Science (4 credit) Spring 2023 (10 students) **Undergraduate Class & Lab: https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
+https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
+[Claflin University, Orangeburg, South Carolina, USA.](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6), United States of America (USA).
 https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
 
 https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024-26.pdf?sfvrsn=88de090e_0
-[Chi Square:](https://youtu.be/dgehxC9tJVc)
-[Semester class review:](https://youtu.be/Pju8ecWWRAw)
-BTEC 560 (4 credit) Fall 2022 (25 students) **Undergraduate Class & Lab. https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
-https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
-[Claflin University, Orangeburg, South Carolina, USA.](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6) https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-biology
-^^Claflin University, School of Natural Sciences and Mathematics, Department of Computer Science and Biology, Orangeburg, South Carolina, United States of America (USA). 
-Feb-1.Rd, Feb 8.Rd: Descriptive statistics (Mean, Mode, Median, Standard Deviation, Variance) variable R functions.
-Feb22.Rd: Correlation test analysis and scatter plotting,  boxplot visualizations. selected function(mlv, library, lm, abline, pie, readRDS, rbind, grep, heatmap, is.data.frame, is.numeric, is.matrix, is.na, ggscatter, cor.test, glimpse(df), mean, mode, Median, table, read.csv, chisq.test, dbinom, pbinom, ppois, runif, qchisq, qt, qf, pexp, runif, aov, summary, TukeyHSD, rnorm, seq, plot, lines, t.test, dbinom, levels, ggplot). Correlation-Plot.pdf, Feb 7.pdf, Feb 9.pdf, 
-Heatmap: Feb 14 Plot.pdf, Feb 7.Rd, Heatmap-2.pdf, Heatmap-3.pdf
-Feb-2-barplot.pdf
-Heatmap-No-Dendrogram.pdf, Heatmap-gplots.pdf, 
-Scatter plots: Jan 31 Plot.pdf, Jan 31-ggplot.pdf, Mar-30-Plot.pdf
-Legend-plot.pdf
-Pie Chart.pdf
-Regression-Plot.pdf
-Volcano_Plot.pdf
-Normal and quantile distribution:dnorm-plot.pdf, qnorm-plot.pdf
-Standard deviation: ST-DEV.png
-Crtical-Value.png
-T-distribution.png
-
+First-Program.R, Program-Aug26.R: Data types: Integer, floats, string, characters, Data structures: List, vectors, data frames, matrix.
+Nov-2.R: Chi-square analysis in R.
+Sep-14.R: Analysis of Variance (ANOVA) test and ggscatter plot.
+correlation-test.r, Sep-2.R: Correlation test analysis and scatter plotting.
+Sep-7.R: Correlation test analysis and scatter plotting.
+Sep23.R: T-test analysis and line plot.
+selected function(chisq.test, pData, rep, colnames, glimpse(df), factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table).
 
 https://www.java.com/
 https://www.php.net/
@@ -102,3 +92,4 @@ https://pypi.org/project/openai/0.26.5/
 https://docs.python.org/3/library/tkinter.html
 https://docs.fast.ai/
 https://pypi.org/project/torchvision/
+
